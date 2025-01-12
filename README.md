@@ -1,4 +1,4 @@
-#👋 Hi, I'm Anushree!
+👋 Hi, I'm Anushree!
 
 🚀 About Me
 - 🎓 Engineering Student | Passionate about Software Development
